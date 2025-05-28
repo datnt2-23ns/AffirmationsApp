@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--    -->
+    <color name="orange">#F8D503</color>
+    <color name="pink">#AC01B9</color>
+    <color name="lightPurple">#B091D5</color>
+    <color name="purple">#6B23D7</color>
+    <color name="darkPurple">#410667</color>
+    <color name="darkPurple2">#2D055A</color>
+    <color name="green">#11D244</color>
+    <color name="grey">#BEBEBE</color>
+    <color name="lightGrey">#CCCCCC</color>
+    <color name="darkBlue">#003366</color>
+    <color name="lightBlue">#90CAF9</color>
+    <color name="lightYellow">#FFF9C4</color>
+    <color name="lightGreen">#A5D6A7</color>
+
+    <color name="lighterBlue">#BBDEFB</color> <!-- Màu xanh nhạt hơn cho gradient -->
+    <color name="mediumBlue">#42A5F5</color> <!-- Màu xanh trung gian cho nút -->
+
+    <color name="lightGreyWhite">#efefef</color>
+</resources>

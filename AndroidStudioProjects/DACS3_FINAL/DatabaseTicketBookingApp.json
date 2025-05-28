@@ -1,0 +1,268 @@
+{
+  "Bookings": {
+    "dante_123": {
+      "booking1": {
+        "airlineLogo": "https://res.cloudinary.com/deffwclhn/image/upload/v1747106282/logoVietNamAirlines_gmjwvb.png",
+        "airlineName": "Vietnam Airlines",
+        "arriveTime": "2h 45m",
+        "bookingDate": "16:42 - 03/05/2025",
+        "classSeat": "Hạng thương gia",
+        "date": "20 may, 2025",
+        "flightId": "flight_000",
+        "from": "Nội Bài",
+        "fromShort": "HAN",
+        "price": 341.2,
+        "seats": "B2,C2",
+        "status": "SCHEDULED",
+        "time": "12:54",
+        "to": "Tân Sơn Nhất",
+        "toShort": "SGN",
+        "typeClass": "Thương gia"
+      },
+      "booking2": {
+        "airlineLogo": "https://res.cloudinary.com/deffwclhn/image/upload/v1747106282/logoVietJetAir_c5zll9.png",
+        "airlineName": "VietJet Air",
+        "arriveTime": "2h 45m",
+        "bookingDate": "16:42 - 03/05/2025",
+        "classSeat": "Hạng nhất",
+        "date": "01 may, 2025",
+        "flightId": "flight_000",
+        "from": "Đà Nẵng",
+        "fromShort": "DAD",
+        "price": 341.2,
+        "seats": "B2,C2",
+        "status": "COMPLETED",
+        "time": "12:54",
+        "to": "Phú Quốc",
+        "toShort": "PQC",
+        "typeClass": "Hạng nhất"
+      },
+      "booking3": {
+        "airlineLogo": "https://res.cloudinary.com/deffwclhn/image/upload/v1747106282/logoBambooAirways_vppucy.png",
+        "airlineName": "Bamboo Airways",
+        "arriveTime": "2h 45m",
+        "bookingDate": "16:42 - 03/05/2025",
+        "classSeat": "Hạng phổ thông",
+        "date": "15 may, 2025",
+        "flightId": "flight_000",
+        "from": "Cát Bi",
+        "fromShort": "HPH",
+        "price": 341.2,
+        "seats": "B2,C2",
+        "status": "DELAYED",
+        "time": "12:54",
+        "to": "Cà Mau",
+        "toShort": "CAH",
+        "typeClass": "Phổ thông"
+      }
+    },
+    "yuu_123": {
+      "-OOY36RE7SUDu4ovbira": {
+        "airlineLogo": "https://res.cloudinary.com/deffwclhn/image/upload/v1747106282/logoJetstar_w2q5en.png",
+        "airlineName": "Jetstar",
+        "arriveTime": "2h 45m",
+        "bookingDate": "16:42 - 03/05/2025",
+        "classSeat": "Hạng thương gia",
+        "date": "13 may, 2025",
+        "flightId": "flight_000",
+        "from": "Vân Đồn",
+        "fromShort": "VDO",
+        "price": 341.2,
+        "seats": "B2,C2",
+        "status": "IN_FLIGHT",
+        "time": "10:00",
+        "to": "Đồng Hới",
+        "toShort": "VDH",
+        "typeClass": "Thương gia"
+      },
+      "-OOZqfh3R0v3gco0Axeu": {
+        "airlineLogo": "https://res.cloudinary.com/deffwclhn/image/upload/v1747106282/logoVietravelAirlines_ca8gkn.png",
+        "airlineName": "VietTravel Airlines",
+        "arriveTime": "2h 45m",
+        "bookingDate": "16:42 - 03/05/2025",
+        "classSeat": "Hạng thương gia",
+        "date": "25 may, 2025",
+        "flightId": "flight_000",
+        "from": "Thọ Xuân",
+        "fromShort": "THD",
+        "price": 341.2,
+        "seats": "B2,C2",
+        "status": "SCHEDULED",
+        "time": "12:54",
+        "to": "Rạch Giá",
+        "toShort": "VKG",
+        "typeClass": "Thương gia"
+      },
+      "-OOZrHl329wYue4JP1UM": {
+        "airlineLogo": "https://res.cloudinary.com/deffwclhn/image/upload/v1747106282/logoVietNamAirlines_gmjwvb.png",
+        "airlineName": "Vietnam Airlines",
+        "arriveTime": "2h 45m",
+        "bookingDate": "16:42 - 03/05/2025",
+        "classSeat": "Hạng thương gia",
+        "date": "13 may, 2025",
+        "flightId": "flight_000",
+        "from": "Điện Biên Phủ",
+        "fromShort": "DIN",
+        "price": 341.2,
+        "seats": "B2,C2",
+        "status": "DELAYED",
+        "time": "12:54",
+        "to": "Nội Bài",
+        "toShort": "HAN",
+        "typeClass": "Thương gia"
+      }
+    }
+  },
+  "Flights": [
+    {
+      "airlineLogo": "https://res.cloudinary.com/deffwclhn/image/upload/v1747106282/logoVietNamAirlines_gmjwvb.png",
+      "airlineName": "Vietnam Airlines",
+      "arriveTime": "2h 45m",
+      "classSeat": "Hạng thương gia",
+      "date": "20 may, 2025",
+      "flightId": "flight_000",
+      "from": "Nội Bài",
+      "fromShort": "HAN",
+      "numberSeat": 79,
+      "price": 170.6,
+      "reservedSeats": "D1,B3,B3,F6,E4,D1,D5,A6,A8,E7,F9,D11,B4,A1",
+      "status": "SCHEDULED",
+      "time": "12:54",
+      "to": "Tân Sơn Nhất",
+      "toShort": "SGN",
+      "typeClass": "Thương gia"
+    },
+    {
+      "airlineLogo": "https://res.cloudinary.com/deffwclhn/image/upload/v1747106282/logoVietJetAir_c5zll9.png",
+      "airlineName": "VietJet Air",
+      "arriveTime": "2h 30m",
+      "classSeat": "Hạng thương gia",
+      "date": "01 may, 2025",
+      "flightId": "flight_001",
+      "from": "Đà Nẵng",
+      "fromShort": "DAD",
+      "numberSeat": 92,
+      "price": 169.1,
+      "reservedSeats": "D1,B2,B3,F3,E2,D1,D5,A6,A1,B1,C1,A4,B4",
+      "status": "COMPLETED",
+      "time": "18:20",
+      "to": "Phú Quốc",
+      "toShort": "PQC",
+      "typeClass": "Thương gia"
+    },
+    {
+      "airlineLogo": "https://res.cloudinary.com/deffwclhn/image/upload/v1747106282/logoBambooAirways_vppucy.png",
+      "airlineName": "Bamboo Airways",
+      "arriveTime": "2h 45m",
+      "classSeat": "Hạng nhất",
+      "date": "15 may, 2025",
+      "flightId": "flight_002",
+      "from": "Cát Bi",
+      "fromShort": "HPH",
+      "numberSeat": 91,
+      "price": 159.1,
+      "reservedSeats": "D1,B3,B3,F6,E4,D1,D5,A6,A4,B4",
+      "status": "DELAYED",
+      "time": "22:45",
+      "to": "Cà Mau",
+      "toShort": "CAH",
+      "typeClass": "Hạng nhất"
+    },
+    {
+      "airlineLogo": "https://res.cloudinary.com/deffwclhn/image/upload/v1747106282/logoJetstar_w2q5en.png",
+      "airlineName": "Jetstar",
+      "arriveTime": "2h 40m",
+      "classSeat": "Hạng phổ thông",
+      "date": "13 may, 2025",
+      "flightId": "flight_003",
+      "from": "Vân Đồn",
+      "fromShort": "VDO",
+      "numberSeat": 98,
+      "price": 157.35,
+      "reservedSeats": "D1,B2,B3,F3,E2,D1,D5,A6",
+      "status": "IN_FLIGHT",
+      "time": "10:00",
+      "to": "Đồng Hới",
+      "toShort": "VDH",
+      "typeClass": "Phổ thông"
+    }
+  ],
+  "Locations": [
+    {
+      "Id": 0,
+      "Name": "Tân Sơn Nhất"
+    },
+    {
+      "Id": 1,
+      "Name": "Nội Bài"
+    },
+    {
+      "Id": 2,
+      "Name": "Đà Nẵng"
+    },
+    {
+      "Id": 3,
+      "Name": "Phú Quốc"
+    },
+    {
+      "Id": 4,
+      "Name": "Cát Bi"
+    },
+    {
+      "Id": 5,
+      "Name": "Cà Mau"
+    },
+    {
+      "Id": 6,
+      "Name": "Vân Đồn"
+    },
+    {
+      "Id": 7,
+      "Name": "Đồng Hới"
+    },
+    {
+      "Id": 8,
+      "Name": "Thọ Xuân"
+    },
+    {
+      "Id": 9,
+      "Name": "Rạch Giá"
+    },
+    {
+      "Id": 10,
+      "Name": "Điện Biên Phủ"
+    }
+  ],
+  "Users": {
+    "admin_123": {
+      "dateOfBirth": "01/01/2005",
+      "email": "adminTBA@gmail.com",
+      "fullName": "3B",
+      "gender": "Nam",
+      "password": "123",
+      "phoneNumber": "1234567890",
+      "role": "admin",
+      "username": "adminTBA"
+    },
+    "dante_123": {
+      "dateOfBirth": "19/09/2005",
+      "email": "dante_123@gmail.com",
+      "fullName": "Dante",
+      "gender": "Nam",
+      "password": "123",
+      "phoneNumber": "0987654321",
+      "role": "user",
+      "username": "dante_123"
+    },
+    "yuu_123": {
+      "dateOfBirth": "19/09/2005",
+      "email": "yuu-kun@gmail.com",
+      "fullName": "Yuu",
+      "gender": "Nam",
+      "password": "123",
+      "phoneNumber": "0112267891",
+      "role": "user",
+      "username": "yuu_123"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "456717048548",
+    "firebase_url": "https://ticketbookingapp-81d1c-default-rtdb.firebaseio.com",
+    "project_id": "ticketbookingapp-81d1c",
+    "storage_bucket": "ticketbookingapp-81d1c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456717048548:android:bbaee1f64a92227977eaf1",
+        "android_client_info": {
+          "package_name": "com.example.ticketbookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwyvApYU7eUZ1HjeCk600-Kik_KGlHsx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
